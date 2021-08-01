@@ -23,6 +23,6 @@
     <a href="https://www.instagram.com/cristiano_hamzah/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
     <a href="http://cristianoweb.pt/" target="_blank"><img src="http://ForTheBadge.com/images/badges/built-with-love.svg" height="27.99"></a><br>
    
-    ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+    ![Snake animation](https://github.com/cristianosch/cristianosch/blob/output/github-contribution-grid-snake.svg)
   </div>  
   <br>
