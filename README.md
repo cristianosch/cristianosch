@@ -1,5 +1,5 @@
 👋     Hi, I’m Cristiano,
-- Web Designer | Front-End Developer Student -
+- Python Student -
 - I am interested in learning more about programming -
 - At this moment I'm studying Python.👨‍💻
 -  I am open to new opportunities.  
