@@ -1,7 +1,7 @@
 👋     Hi, I’m Cristiano,
 - Python Student -
 - I am interested in learning more about programming -
-- At this moment I'm studying Frameworks in Python.👨‍💻
+- At this moment I'm studying Frameworks as Django and Flask.👨‍💻
 -  I am open to new opportunities.  
  <div>
   <br> 
