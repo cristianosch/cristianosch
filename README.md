@@ -1,5 +1,5 @@
 👋     Hi, I’m Cristiano,
-- Python Student -
+- DEV Student -
 - I am interested in learning more about programming -
 - At this moment I'm studying by doing projects.👨‍💻
 -  I am open to new opportunities.  
