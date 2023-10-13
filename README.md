@@ -20,8 +20,9 @@
   <div>
      <a href="https://www.linkedin.com/in/cristiano-webdeveloper/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30" width="130"></a>
     <a href = "mailto:cristiano85sch@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" height="30" width="130"></a>
-    <a href="https://www.instagram.com/cristiano_hamzah/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" height="30" width="130"></a>
-    <a href="http://cristianoweb.pt/" target="_blank"><img src="http://ForTheBadge.com/images/badges/built-with-love.svg" height="27.99" height="30" width="130"></a><br>
+    <a href="https://www.instagram.com/cristiano_web_works/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" height="30" width="130"></a>
+    <a href="http://cristianowebworks.com/" target="_blank"><img src="http://ForTheBadge.com/images/badges/built-with-love.svg" height="27.99" height="30" width="130"></a><br>
    
   </div>  
   <br>
+
