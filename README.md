@@ -1,4 +1,4 @@
-👋  Hello, dev 
+Hello, dev 👋  
 
 - I'm passionate about programming.
 <br>
