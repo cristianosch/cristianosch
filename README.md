@@ -1,7 +1,10 @@
-👋     Hi, I’m Cristiano,
-- DEV Student -
-- I am interested in learning more about programming -
-- At this moment I'm studying by doing projects.👨‍💻
+👋  Hello, dev 
+
+- I'm passionate about programming.
+<br>
+ Coding is like being in another universe where it's just you and the text editor, where you can express yourself and use your imagination to create something for yourself, others or even create something to help others.
+Let's code! 👨‍💻
+<br>
 -  I am open to new opportunities.  
  <div>
   <br> 
